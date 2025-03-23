@@ -1,0 +1,10 @@
+{
+  "build": { "dockerfile": "Dockerfile" },
+
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint", "ms-vscode.cmake-tools",  "llvm-vs-code-extensions.vscode-clangd", "ms-vscode.cmake-tools", "llvm-vs-code-extensions.vscode-clangd", "ms-vscode.cmake-tools","llvm-vs-code-extensions.vscode-clangd", "ms-vscode.cmake-tools", "llvm-vs-code-extensions.vscode-clangd", "ms-vscode.cmake-tools",  "llvm-vs-code-extensions.vscode-clangd", "ms-python.python"]
+    }
+  }
+}
+
